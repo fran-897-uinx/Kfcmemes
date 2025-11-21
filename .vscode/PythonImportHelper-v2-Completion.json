@@ -1,0 +1,1846 @@
+[
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "pathlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "dj_database_url",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dj_database_url",
+        "description": "dj_database_url",
+        "detail": "dj_database_url",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "GalleryItem",
+        "importPath": "returante.models",
+        "description": "returante.models",
+        "isExtraImport": true,
+        "detail": "returante.models",
+        "documentation": {}
+    },
+    {
+        "label": "BlogDisplay",
+        "importPath": "returante.models",
+        "description": "returante.models",
+        "isExtraImport": true,
+        "detail": "returante.models",
+        "documentation": {}
+    },
+    {
+        "label": "Menu",
+        "importPath": "returante.models",
+        "description": "returante.models",
+        "isExtraImport": true,
+        "detail": "returante.models",
+        "documentation": {}
+    },
+    {
+        "label": "user_passes_test",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "format_suffix_patterns",
+        "importPath": "rest_framework.urlpatterns",
+        "description": "rest_framework.urlpatterns",
+        "isExtraImport": true,
+        "detail": "rest_framework.urlpatterns",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "render_to_string",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "BadHeaderError",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMultiAlternatives",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "serve",
+        "importPath": "waitress",
+        "description": "waitress",
+        "isExtraImport": true,
+        "detail": "waitress",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "importPath": "kyc.wsgi",
+        "description": "kyc.wsgi",
+        "isExtraImport": true,
+        "detail": "kyc.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "core.management.commands.createuser",
+        "description": "core.management.commands.createuser",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Create superuser from environment variables'\n    def handle(self, *args, **options):\n        username = os.getenv('DJANGO_SUPERUSER_USERNAME')\n        email = os.getenv('DJANGO_SUPERUSER_EMAIL')\n        password = os.getenv('DJANGO_SUPERUSER_PASSWORD')\n        if not User.objects.filter(username=username).exists():\n            User.objects.create_superuser(username=username, email=email, password=password)\n            self.stdout.write(self.style.SUCCESS(f'Superuser \"{username}\" created successfully!'))\n        else:",
+        "detail": "core.management.commands.createuser",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "core.management.commands.createuser",
+        "description": "core.management.commands.createuser",
+        "peekOfCode": "User = get_user_model()\nclass Command(BaseCommand):\n    help = 'Create superuser from environment variables'\n    def handle(self, *args, **options):\n        username = os.getenv('DJANGO_SUPERUSER_USERNAME')\n        email = os.getenv('DJANGO_SUPERUSER_EMAIL')\n        password = os.getenv('DJANGO_SUPERUSER_PASSWORD')\n        if not User.objects.filter(username=username).exists():\n            User.objects.create_superuser(username=username, email=email, password=password)\n            self.stdout.write(self.style.SUCCESS(f'Superuser \"{username}\" created successfully!'))",
+        "detail": "core.management.commands.createuser",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "kyc.asgi",
+        "description": "kyc.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "kyc.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = os.getenv(\"SECRET_KEY\")\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = str(os.getenv(\"DEBUG\")) == \"False\"\nALLOWED_HOSTS = os.environ.get(\"ALLOWED_HOSTS\", \"\").split(\",\")\n# Custom Admin URL\nADMIN_URL = os.environ.get(\"ADMIN_URL\", \"admin/\")",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "SECRET_KEY = os.getenv(\"SECRET_KEY\")\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = str(os.getenv(\"DEBUG\")) == \"False\"\nALLOWED_HOSTS = os.environ.get(\"ALLOWED_HOSTS\", \"\").split(\",\")\n# Custom Admin URL\nADMIN_URL = os.environ.get(\"ADMIN_URL\", \"admin/\")\n# Custom Domain\nDOMAIN = os.environ.get(\"DOMAIN\", \"\")\n# Optional Region\nREGION = os.environ.get(\"REGION\", \"\")",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "DEBUG = str(os.getenv(\"DEBUG\")) == \"False\"\nALLOWED_HOSTS = os.environ.get(\"ALLOWED_HOSTS\", \"\").split(\",\")\n# Custom Admin URL\nADMIN_URL = os.environ.get(\"ADMIN_URL\", \"admin/\")\n# Custom Domain\nDOMAIN = os.environ.get(\"DOMAIN\", \"\")\n# Optional Region\nREGION = os.environ.get(\"REGION\", \"\")\n# Example\nprint(\"Loaded region:\", REGION)",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "ALLOWED_HOSTS = os.environ.get(\"ALLOWED_HOSTS\", \"\").split(\",\")\n# Custom Admin URL\nADMIN_URL = os.environ.get(\"ADMIN_URL\", \"admin/\")\n# Custom Domain\nDOMAIN = os.environ.get(\"DOMAIN\", \"\")\n# Optional Region\nREGION = os.environ.get(\"REGION\", \"\")\n# Example\nprint(\"Loaded region:\", REGION)\nTAILWIND_APP_NAME = \"theme\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ADMIN_URL",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "ADMIN_URL = os.environ.get(\"ADMIN_URL\", \"admin/\")\n# Custom Domain\nDOMAIN = os.environ.get(\"DOMAIN\", \"\")\n# Optional Region\nREGION = os.environ.get(\"REGION\", \"\")\n# Example\nprint(\"Loaded region:\", REGION)\nTAILWIND_APP_NAME = \"theme\"\nNPM_BIN_PATH = \"C:/Program Files/nodejs/npm.cmd\"\nINTERNAL_IPS = [\"127.0.0.1\", \"172.30.0.1\", \"10.0.0.9\"]",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "DOMAIN = os.environ.get(\"DOMAIN\", \"\")\n# Optional Region\nREGION = os.environ.get(\"REGION\", \"\")\n# Example\nprint(\"Loaded region:\", REGION)\nTAILWIND_APP_NAME = \"theme\"\nNPM_BIN_PATH = \"C:/Program Files/nodejs/npm.cmd\"\nINTERNAL_IPS = [\"127.0.0.1\", \"172.30.0.1\", \"10.0.0.9\"]\nRENDER_EXTERNAL_HOSTNAME = os.environ.get(\"RENDER_EXTERNAL_HOSTNAME\")\nif RENDER_EXTERNAL_HOSTNAME:",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REGION",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "REGION = os.environ.get(\"REGION\", \"\")\n# Example\nprint(\"Loaded region:\", REGION)\nTAILWIND_APP_NAME = \"theme\"\nNPM_BIN_PATH = \"C:/Program Files/nodejs/npm.cmd\"\nINTERNAL_IPS = [\"127.0.0.1\", \"172.30.0.1\", \"10.0.0.9\"]\nRENDER_EXTERNAL_HOSTNAME = os.environ.get(\"RENDER_EXTERNAL_HOSTNAME\")\nif RENDER_EXTERNAL_HOSTNAME:\n    ALLOWED_HOSTS.append(RENDER_EXTERNAL_HOSTNAME)\nif os.environ.get(\"DOMAIN\"):",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TAILWIND_APP_NAME",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "TAILWIND_APP_NAME = \"theme\"\nNPM_BIN_PATH = \"C:/Program Files/nodejs/npm.cmd\"\nINTERNAL_IPS = [\"127.0.0.1\", \"172.30.0.1\", \"10.0.0.9\"]\nRENDER_EXTERNAL_HOSTNAME = os.environ.get(\"RENDER_EXTERNAL_HOSTNAME\")\nif RENDER_EXTERNAL_HOSTNAME:\n    ALLOWED_HOSTS.append(RENDER_EXTERNAL_HOSTNAME)\nif os.environ.get(\"DOMAIN\"):\n    ALLOWED_HOSTS.append(os.environ.get(\"DOMAIN\"))\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "NPM_BIN_PATH",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "NPM_BIN_PATH = \"C:/Program Files/nodejs/npm.cmd\"\nINTERNAL_IPS = [\"127.0.0.1\", \"172.30.0.1\", \"10.0.0.9\"]\nRENDER_EXTERNAL_HOSTNAME = os.environ.get(\"RENDER_EXTERNAL_HOSTNAME\")\nif RENDER_EXTERNAL_HOSTNAME:\n    ALLOWED_HOSTS.append(RENDER_EXTERNAL_HOSTNAME)\nif os.environ.get(\"DOMAIN\"):\n    ALLOWED_HOSTS.append(os.environ.get(\"DOMAIN\"))\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INTERNAL_IPS",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "INTERNAL_IPS = [\"127.0.0.1\", \"172.30.0.1\", \"10.0.0.9\"]\nRENDER_EXTERNAL_HOSTNAME = os.environ.get(\"RENDER_EXTERNAL_HOSTNAME\")\nif RENDER_EXTERNAL_HOSTNAME:\n    ALLOWED_HOSTS.append(RENDER_EXTERNAL_HOSTNAME)\nif os.environ.get(\"DOMAIN\"):\n    ALLOWED_HOSTS.append(os.environ.get(\"DOMAIN\"))\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "RENDER_EXTERNAL_HOSTNAME",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "RENDER_EXTERNAL_HOSTNAME = os.environ.get(\"RENDER_EXTERNAL_HOSTNAME\")\nif RENDER_EXTERNAL_HOSTNAME:\n    ALLOWED_HOSTS.append(RENDER_EXTERNAL_HOSTNAME)\nif os.environ.get(\"DOMAIN\"):\n    ALLOWED_HOSTS.append(os.environ.get(\"DOMAIN\"))\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"rest_framework\",\n    \"tailwind\",\n    \"crispy_forms\",",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"whitenoise.middleware.WhiteNoiseMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django_browser_reload.middleware.BrowserReloadMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "ROOT_URLCONF = \"kyc.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",\n                \"django.contrib.messages.context_processors.messages\",",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"kyc.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/5.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Always try DATABASE_URL first",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Always try DATABASE_URL first\nDATABASE_URL = os.getenv(\"DATABASE_URL\")\nif DATABASE_URL:\n    DATABASES = {",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "DATABASE_URL = os.getenv(\"DATABASE_URL\")\nif DATABASE_URL:\n    DATABASES = {\n        \"default\": dj_database_url.parse(\n            DATABASE_URL,\n            conn_max_age=600,\n            ssl_require=True,\n        )\n    }\nelse:",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = \"/static/\"\nSTATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = \"/static/\"\nSTATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = \"/static/\"\nSTATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nMEDIA_URL = \"/media/\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = \"/static/\"\nSTATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "STATIC_URL = \"/static/\"\nSTATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\nSTATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\nSTATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\nSTATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\n# REST_FRAMEWORK = {",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "MEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\nSTATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\n# REST_FRAMEWORK = {\n#     # Use Django's standard `django.contrib.auth` permissions,\n#     # or allow read-only access for unauthenticated users.\n#     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\nSTATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\n# REST_FRAMEWORK = {\n#     # Use Django's standard `django.contrib.auth` permissions,\n#     # or allow read-only access for unauthenticated users.\n#     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n#     'PAGE_SIZE': 10,",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_STORAGE",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "STATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\n# REST_FRAMEWORK = {\n#     # Use Django's standard `django.contrib.auth` permissions,\n#     # or allow read-only access for unauthenticated users.\n#     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n#     'PAGE_SIZE': 10,\n# }",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\n# REST_FRAMEWORK = {\n#     # Use Django's standard `django.contrib.auth` permissions,\n#     # or allow read-only access for unauthenticated users.\n#     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n#     'PAGE_SIZE': 10,\n# }\nEMAIL_BACKEND = os.getenv(\"EMAIL_BACKEND\")\nEMAIL_HOST = os.getenv(\"EMAIL_HOST\")\nEMAIL_PORT = os.getenv(\"EMAIL_PORT\")",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "EMAIL_BACKEND = os.getenv(\"EMAIL_BACKEND\")\nEMAIL_HOST = os.getenv(\"EMAIL_HOST\")\nEMAIL_PORT = os.getenv(\"EMAIL_PORT\")\nEMAIL_USE_TLS = os.getenv(\"EMAIL_USE_TLS\")\nEMAIL_HOST_USER = os.getenv(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.getenv(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.getenv(\"DEFAULT_FROM_EMAIL\")\nCRISPY_ALLOWED_TEMPLATE_PACKS = \"tailwind\"\nCRISPY_TEMPLATE_PACK = \"tailwind\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "EMAIL_HOST = os.getenv(\"EMAIL_HOST\")\nEMAIL_PORT = os.getenv(\"EMAIL_PORT\")\nEMAIL_USE_TLS = os.getenv(\"EMAIL_USE_TLS\")\nEMAIL_HOST_USER = os.getenv(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.getenv(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.getenv(\"DEFAULT_FROM_EMAIL\")\nCRISPY_ALLOWED_TEMPLATE_PACKS = \"tailwind\"\nCRISPY_TEMPLATE_PACK = \"tailwind\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "EMAIL_PORT = os.getenv(\"EMAIL_PORT\")\nEMAIL_USE_TLS = os.getenv(\"EMAIL_USE_TLS\")\nEMAIL_HOST_USER = os.getenv(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.getenv(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.getenv(\"DEFAULT_FROM_EMAIL\")\nCRISPY_ALLOWED_TEMPLATE_PACKS = \"tailwind\"\nCRISPY_TEMPLATE_PACK = \"tailwind\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "EMAIL_USE_TLS = os.getenv(\"EMAIL_USE_TLS\")\nEMAIL_HOST_USER = os.getenv(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.getenv(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.getenv(\"DEFAULT_FROM_EMAIL\")\nCRISPY_ALLOWED_TEMPLATE_PACKS = \"tailwind\"\nCRISPY_TEMPLATE_PACK = \"tailwind\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "EMAIL_HOST_USER = os.getenv(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.getenv(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.getenv(\"DEFAULT_FROM_EMAIL\")\nCRISPY_ALLOWED_TEMPLATE_PACKS = \"tailwind\"\nCRISPY_TEMPLATE_PACK = \"tailwind\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = os.getenv(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.getenv(\"DEFAULT_FROM_EMAIL\")\nCRISPY_ALLOWED_TEMPLATE_PACKS = \"tailwind\"\nCRISPY_TEMPLATE_PACK = \"tailwind\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FROM_EMAIL",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = os.getenv(\"DEFAULT_FROM_EMAIL\")\nCRISPY_ALLOWED_TEMPLATE_PACKS = \"tailwind\"\nCRISPY_TEMPLATE_PACK = \"tailwind\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_ALLOWED_TEMPLATE_PACKS",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "CRISPY_ALLOWED_TEMPLATE_PACKS = \"tailwind\"\nCRISPY_TEMPLATE_PACK = \"tailwind\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "kyc.settings",
+        "description": "kyc.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = \"tailwind\"",
+        "detail": "kyc.settings",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "kyc.urls",
+        "description": "kyc.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path(\"__reload__/\", include(\"django_browser_reload.urls\")),\n    path(\"\", include(\"returante.urls\")),\n    path(\"ownner/users_record/\", include(\"ownner.urls\"), name=\"ownner\"),\n    path('', include(router.urls)),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)",
+        "detail": "kyc.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "kyc.urls",
+        "description": "kyc.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path(\"__reload__/\", include(\"django_browser_reload.urls\")),\n    path(\"\", include(\"returante.urls\")),\n    path(\"ownner/users_record/\", include(\"ownner.urls\"), name=\"ownner\"),\n    path('', include(router.urls)),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "kyc.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CURRENT_DIR",
+        "kind": 5,
+        "importPath": "kyc.wsgi",
+        "description": "kyc.wsgi",
+        "peekOfCode": "CURRENT_DIR = pathlib.Path(__file__).resolve().parent\nBASE_DIR = CURRENT_DIR.parent\nENV_FILE_PATH = BASE_DIR / \".env\"\nload_dotenv(str(ENV_FILE_PATH))\nos.environ.setdefault('DJANGO_SETTINGS_MODULE', 'kyc.settings')\napplication = get_wsgi_application()",
+        "detail": "kyc.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "kyc.wsgi",
+        "description": "kyc.wsgi",
+        "peekOfCode": "BASE_DIR = CURRENT_DIR.parent\nENV_FILE_PATH = BASE_DIR / \".env\"\nload_dotenv(str(ENV_FILE_PATH))\nos.environ.setdefault('DJANGO_SETTINGS_MODULE', 'kyc.settings')\napplication = get_wsgi_application()",
+        "detail": "kyc.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "ENV_FILE_PATH",
+        "kind": 5,
+        "importPath": "kyc.wsgi",
+        "description": "kyc.wsgi",
+        "peekOfCode": "ENV_FILE_PATH = BASE_DIR / \".env\"\nload_dotenv(str(ENV_FILE_PATH))\nos.environ.setdefault('DJANGO_SETTINGS_MODULE', 'kyc.settings')\napplication = get_wsgi_application()",
+        "detail": "kyc.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "kyc.wsgi",
+        "description": "kyc.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "kyc.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ownner.migrations.0001_initial",
+        "description": "ownner.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Food',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "ownner.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ownner.migrations.0002_user",
+        "description": "ownner.migrations.0002_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('ownner', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='user',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=20)),",
+        "detail": "ownner.migrations.0002_user",
+        "documentation": {}
+    },
+    {
+        "label": "Useradmin",
+        "kind": 6,
+        "importPath": "ownner.admin",
+        "description": "ownner.admin",
+        "peekOfCode": "class Useradmin(admin.ModelAdmin):\n    list_display = (\"name\", \"email\", \"role\")\n    search_fields = (\"role\", \"name\")\n    list_filter = (\"name\", \"role\")\n@admin.register(Food)\nclass FoodAdmin(admin.ModelAdmin):\n    list_display = ('name', 'category', 'price', 'available', 'date_added')\n    search_fields = ('name',)\n    list_filter = ('category', 'available')\n@admin.register(Order)",
+        "detail": "ownner.admin",
+        "documentation": {}
+    },
+    {
+        "label": "FoodAdmin",
+        "kind": 6,
+        "importPath": "ownner.admin",
+        "description": "ownner.admin",
+        "peekOfCode": "class FoodAdmin(admin.ModelAdmin):\n    list_display = ('name', 'category', 'price', 'available', 'date_added')\n    search_fields = ('name',)\n    list_filter = ('category', 'available')\n@admin.register(Order)\nclass OrderAdmin(admin.ModelAdmin):\n    list_display = ('user', 'food', 'quantity', 'total_price', 'status', 'date_ordered')\n    list_filter = ('status', 'date_ordered')\n    search_fields = ('user__username', 'food__name')\n@admin.register(Supply)",
+        "detail": "ownner.admin",
+        "documentation": {}
+    },
+    {
+        "label": "OrderAdmin",
+        "kind": 6,
+        "importPath": "ownner.admin",
+        "description": "ownner.admin",
+        "peekOfCode": "class OrderAdmin(admin.ModelAdmin):\n    list_display = ('user', 'food', 'quantity', 'total_price', 'status', 'date_ordered')\n    list_filter = ('status', 'date_ordered')\n    search_fields = ('user__username', 'food__name')\n@admin.register(Supply)\nclass SupplyAdmin(admin.ModelAdmin):\n    list_display = ('supplier_name', 'food_name', 'quantity', 'status', 'expected_date')\n    list_filter = ('status',)\n    search_fields = ('supplier_name', 'food_name')",
+        "detail": "ownner.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SupplyAdmin",
+        "kind": 6,
+        "importPath": "ownner.admin",
+        "description": "ownner.admin",
+        "peekOfCode": "class SupplyAdmin(admin.ModelAdmin):\n    list_display = ('supplier_name', 'food_name', 'quantity', 'status', 'expected_date')\n    list_filter = ('status',)\n    search_fields = ('supplier_name', 'food_name')",
+        "detail": "ownner.admin",
+        "documentation": {}
+    },
+    {
+        "label": "OwnnerConfig",
+        "kind": 6,
+        "importPath": "ownner.apps",
+        "description": "ownner.apps",
+        "peekOfCode": "class OwnnerConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'ownner'",
+        "detail": "ownner.apps",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 6,
+        "importPath": "ownner.models",
+        "description": "ownner.models",
+        "peekOfCode": "class user(models.Model):\n    ROLES = [(\"Customer\", \"customer\"), (\"Student\", \"student\"), (\"Ownner\", \"ownner\")]\n    name = models.CharField(max_length=20)\n    email = models.EmailField()\n    first_name = models.CharField(max_length=20)\n    last_name = models.CharField(max_length=20)\n    role = models.CharField(max_length=10, choices=ROLES, default=\"Customer\")\n# ==============================\n#  FOOD MODEL\n# ==============================",
+        "detail": "ownner.models",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "kind": 6,
+        "importPath": "ownner.models",
+        "description": "ownner.models",
+        "peekOfCode": "class Food(models.Model):\n    CATEGORY_CHOICES = [\n        (\"food\", \"Food\"),\n        (\"drink\", \"Drink\"),\n        (\"snack\", \"Snack\"),\n    ]\n    name = models.CharField(max_length=100)\n    category = models.CharField(max_length=10, choices=CATEGORY_CHOICES, default=\"food\")\n    description = models.TextField(blank=True, null=True)\n    price = models.DecimalField(max_digits=6, decimal_places=2)",
+        "detail": "ownner.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "ownner.models",
+        "description": "ownner.models",
+        "peekOfCode": "class Order(models.Model):\n    STATUS_CHOICES = [\n        (\"pending\", \"Pending\"),\n        (\"delivered\", \"Delivered\"),\n        (\"failed\", \"Failed\"),\n    ]\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    food = models.ForeignKey(Food, on_delete=models.CASCADE)\n    quantity = models.PositiveIntegerField(default=1)\n    total_price = models.DecimalField(max_digits=8, decimal_places=2)",
+        "detail": "ownner.models",
+        "documentation": {}
+    },
+    {
+        "label": "Supply",
+        "kind": 6,
+        "importPath": "ownner.models",
+        "description": "ownner.models",
+        "peekOfCode": "class Supply(models.Model):\n    STATUS_CHOICES = [\n        (\"on_time\", \"On Time\"),\n        (\"delayed\", \"Delayed\"),\n        (\"failed\", \"Failed\"),\n    ]\n    supplier_name = models.CharField(max_length=100)\n    food_name = models.CharField(max_length=100)\n    quantity = models.PositiveIntegerField(default=0)\n    expected_date = models.DateField()",
+        "detail": "ownner.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "ownner.urls",
+        "description": "ownner.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.users_record, name=\"users_record\"),\n    path(\"ordered_record/\", views.ordered_record, name=\"ordered_record\"),\n    path(\"pending_record/\", views.pending_record, name=\"pending_record\"),\n    path(\"failed_record/\", views.failed_record, name=\"failed_record\"),\n    path(\"upload-gallery/\", views.upload_gallery, name=\"upload_gallery\"),\n    path(\"upload_blog/\", views.upload_blog, name=\"upload_blog\"),\n    path(\"upload_menu/\", views.upload_menu, name=\"upload_menu\"),\n]",
+        "detail": "ownner.urls",
+        "documentation": {}
+    },
+    {
+        "label": "users_record",
+        "kind": 2,
+        "importPath": "ownner.views",
+        "description": "ownner.views",
+        "peekOfCode": "def users_record(request):\n    from django.contrib.auth.models import User\n    users = User.objects.all()\n    return render(request, 'records/users.html', {'users': users})\ndef ordered_record(request):\n    orders = Order.objects.filter(status='delivered')\n    return render(request, 'records/ordered.html', {'orders': orders})\ndef pending_record(request):\n    pending_orders = Order.objects.filter(status='pending')\n    return render(request, 'records/pending.html', {'pending_orders': pending_orders})",
+        "detail": "ownner.views",
+        "documentation": {}
+    },
+    {
+        "label": "ordered_record",
+        "kind": 2,
+        "importPath": "ownner.views",
+        "description": "ownner.views",
+        "peekOfCode": "def ordered_record(request):\n    orders = Order.objects.filter(status='delivered')\n    return render(request, 'records/ordered.html', {'orders': orders})\ndef pending_record(request):\n    pending_orders = Order.objects.filter(status='pending')\n    return render(request, 'records/pending.html', {'pending_orders': pending_orders})\ndef failed_record(request):\n    failed_supplies = Supply.objects.filter(status='failed')\n    return render(request, 'records/failed.html', {'failed_supplies': failed_supplies})\ndef upload_gallery(request):",
+        "detail": "ownner.views",
+        "documentation": {}
+    },
+    {
+        "label": "pending_record",
+        "kind": 2,
+        "importPath": "ownner.views",
+        "description": "ownner.views",
+        "peekOfCode": "def pending_record(request):\n    pending_orders = Order.objects.filter(status='pending')\n    return render(request, 'records/pending.html', {'pending_orders': pending_orders})\ndef failed_record(request):\n    failed_supplies = Supply.objects.filter(status='failed')\n    return render(request, 'records/failed.html', {'failed_supplies': failed_supplies})\ndef upload_gallery(request):\n    if request.method == \"POST\":\n        name = request.POST.get(\"name\")\n        image = request.FILES.get(\"image\")",
+        "detail": "ownner.views",
+        "documentation": {}
+    },
+    {
+        "label": "failed_record",
+        "kind": 2,
+        "importPath": "ownner.views",
+        "description": "ownner.views",
+        "peekOfCode": "def failed_record(request):\n    failed_supplies = Supply.objects.filter(status='failed')\n    return render(request, 'records/failed.html', {'failed_supplies': failed_supplies})\ndef upload_gallery(request):\n    if request.method == \"POST\":\n        name = request.POST.get(\"name\")\n        image = request.FILES.get(\"image\")\n        if name and image:\n            GalleryItem.objects.create(name=name, image=image)\n        return redirect(\"gallery\")",
+        "detail": "ownner.views",
+        "documentation": {}
+    },
+    {
+        "label": "upload_gallery",
+        "kind": 2,
+        "importPath": "ownner.views",
+        "description": "ownner.views",
+        "peekOfCode": "def upload_gallery(request):\n    if request.method == \"POST\":\n        name = request.POST.get(\"name\")\n        image = request.FILES.get(\"image\")\n        if name and image:\n            GalleryItem.objects.create(name=name, image=image)\n        return redirect(\"gallery\")\n    return render(request, \"upload_gallery.html\")\ndef upload_blog(request):\n    if request.method == \"POST\":",
+        "detail": "ownner.views",
+        "documentation": {}
+    },
+    {
+        "label": "upload_blog",
+        "kind": 2,
+        "importPath": "ownner.views",
+        "description": "ownner.views",
+        "peekOfCode": "def upload_blog(request):\n    if request.method == \"POST\":\n        title = request.POST.get(\"title\")\n        sub_title = request.POST.get(\"subtitle\")\n        image = request.FILES.get(\"image\")\n        description = request.POST.get(\"description\")\n        if title and description and image:\n            BlogDisplay.objects.create(\n                title=title, image=image, description=description, sub_title=sub_title\n            )",
+        "detail": "ownner.views",
+        "documentation": {}
+    },
+    {
+        "label": "upload_menu",
+        "kind": 2,
+        "importPath": "ownner.views",
+        "description": "ownner.views",
+        "peekOfCode": "def upload_menu(request):\n    if request.method == \"POST\":\n        title = request.POST.get(\"title\")\n        discription = request.POST.get(\"discription\")\n        price = request.POST.get(\"price\")\n        sample = request.FILES.get(\"image\")\n        selection = request.POST.get(\"selection\")\n        if title and discription and sample and price and selection:\n            Menu.objects.create(\n                title=title,",
+        "detail": "ownner.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0001_initial",
+        "description": "returante.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Food',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "returante.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0002_remove_order_food_remove_order_user_delete_supply_and_more",
+        "description": "returante.migrations.0002_remove_order_food_remove_order_user_delete_supply_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='order',\n            name='food',\n        ),\n        migrations.RemoveField(",
+        "detail": "returante.migrations.0002_remove_order_food_remove_order_user_delete_supply_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0003_initial",
+        "description": "returante.migrations.0003_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('returante', '0002_remove_order_food_remove_order_user_delete_supply_and_more'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Menu',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "returante.migrations.0003_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0004_reservation",
+        "description": "returante.migrations.0004_reservation",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0003_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Reservation',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=30)),",
+        "detail": "returante.migrations.0004_reservation",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0005_reservation_meassage",
+        "description": "returante.migrations.0005_reservation_meassage",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0004_reservation'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='reservation',\n            name='meassage',\n            field=models.TextField(blank=True, max_length=500, null=True),\n        ),",
+        "detail": "returante.migrations.0005_reservation_meassage",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0006_alter_reservation_guest_phone_num",
+        "description": "returante.migrations.0006_alter_reservation_guest_phone_num",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0005_reservation_meassage'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='reservation',\n            name='guest_phone_num',\n            field=models.IntegerField(max_length=20),\n        ),",
+        "detail": "returante.migrations.0006_alter_reservation_guest_phone_num",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0007_student",
+        "description": "returante.migrations.0007_student",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0006_alter_reservation_guest_phone_num'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Student',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "returante.migrations.0007_student",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0008_grouplink_alter_student_age",
+        "description": "returante.migrations.0008_grouplink_alter_student_age",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0007_student'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='GroupLink',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(default='KFC Student Group', max_length=100)),",
+        "detail": "returante.migrations.0008_grouplink_alter_student_age",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0009_student_joined_group_name_student_whatsapp_joined",
+        "description": "returante.migrations.0009_student_joined_group_name_student_whatsapp_joined",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0008_grouplink_alter_student_age'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='student',\n            name='joined_group_name',\n            field=models.ForeignKey(blank=True, help_text='The WhatsApp group this student joined.', null=True, on_delete=django.db.models.deletion.SET_NULL, related_name='students', to='returante.grouplink'),\n        ),",
+        "detail": "returante.migrations.0009_student_joined_group_name_student_whatsapp_joined",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0010_contact",
+        "description": "returante.migrations.0010_contact",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0009_student_joined_group_name_student_whatsapp_joined'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Contact',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=20)),",
+        "detail": "returante.migrations.0010_contact",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0011_alter_reservation_guest_phone_num",
+        "description": "returante.migrations.0011_alter_reservation_guest_phone_num",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0010_contact'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='reservation',\n            name='guest_phone_num',\n            field=models.IntegerField(),\n        ),",
+        "detail": "returante.migrations.0011_alter_reservation_guest_phone_num",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0012_galleryitem",
+        "description": "returante.migrations.0012_galleryitem",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0011_alter_reservation_guest_phone_num'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='GalleryItem',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=255)),",
+        "detail": "returante.migrations.0012_galleryitem",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0013_blogdisplay",
+        "description": "returante.migrations.0013_blogdisplay",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0012_galleryitem'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='BlogDisplay',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=50)),",
+        "detail": "returante.migrations.0013_blogdisplay",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0014_alter_blogdisplay_sub_title",
+        "description": "returante.migrations.0014_alter_blogdisplay_sub_title",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0013_blogdisplay'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='blogdisplay',\n            name='sub_title',\n            field=models.CharField(blank=True, max_length=100, null=True),\n        ),",
+        "detail": "returante.migrations.0014_alter_blogdisplay_sub_title",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0015_menu_discription",
+        "description": "returante.migrations.0015_menu_discription",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0014_alter_blogdisplay_sub_title'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='menu',\n            name='discription',\n            field=models.TextField(blank=True, max_length=500, null=True),\n        ),",
+        "detail": "returante.migrations.0015_menu_discription",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0016_reservation_menu_items_alter_menu_price_and_more",
+        "description": "returante.migrations.0016_reservation_menu_items_alter_menu_price_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0015_menu_discription'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='reservation',\n            name='menu_items',\n            field=models.ManyToManyField(blank=True, to='returante.menu'),\n        ),",
+        "detail": "returante.migrations.0016_reservation_menu_items_alter_menu_price_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "returante.migrations.0017_remove_student_age",
+        "description": "returante.migrations.0017_remove_student_age",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('returante', '0016_reservation_menu_items_alter_menu_price_and_more'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='student',\n            name='age',\n        ),\n    ]",
+        "detail": "returante.migrations.0017_remove_student_age",
+        "documentation": {}
+    },
+    {
+        "label": "MenuAdmin",
+        "kind": 6,
+        "importPath": "returante.admin",
+        "description": "returante.admin",
+        "peekOfCode": "class MenuAdmin(admin.ModelAdmin):\n    list_display = (\"title\", \"selection\", \"price\", \"available\", \"date_added\")\n    list_filter = (\"selection\", \"available\")\n    search_fields = (\"title\",)\n    list_editable = (\"available\",)\n    ordering = (\"-date_added\",)\n# ----------------------------\n#  RESERVATION ADMIN\n# ----------------------------\n@admin.register(Reservation)",
+        "detail": "returante.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ReservationAdmin",
+        "kind": 6,
+        "importPath": "returante.admin",
+        "description": "returante.admin",
+        "peekOfCode": "class ReservationAdmin(admin.ModelAdmin):\n    list_display = (\"name\", \"email\", \"guest_phone_num\", \"date\")\n    search_fields = (\"name\", \"email\")\n    ordering = (\"-date\",)\n    readonly_fields = (\"date\",)\n# ----------------------------\n#  STUDENT ADMIN\n# ----------------------------\n@admin.register(Student)\nclass StudentAdmin(admin.ModelAdmin):",
+        "detail": "returante.admin",
+        "documentation": {}
+    },
+    {
+        "label": "StudentAdmin",
+        "kind": 6,
+        "importPath": "returante.admin",
+        "description": "returante.admin",
+        "peekOfCode": "class StudentAdmin(admin.ModelAdmin):\n    list_display = (\"name\", \"email\", \"phone_number\", \"registered_on\")\n    search_fields = (\"name\", \"email\", \"phone_number\")\n    list_filter = (\"registered_on\",)\n    readonly_fields = (\"registered_on\",)\n    ordering = (\"-registered_on\",)\n# ----------------------------\n#  GROUP LINK ADMIN\n# ----------------------------\n@admin.register(GroupLink)",
+        "detail": "returante.admin",
+        "documentation": {}
+    },
+    {
+        "label": "GroupLinkAdmin",
+        "kind": 6,
+        "importPath": "returante.admin",
+        "description": "returante.admin",
+        "peekOfCode": "class GroupLinkAdmin(admin.ModelAdmin):\n    list_display = (\"title\", \"link\", \"active\")\n    list_editable = (\"active\",)\n    search_fields = (\"title\",)\n    def save_model(self, request, obj, form, change):\n        \"\"\"\n        Ensure only one WhatsApp group is active at a time.\n        \"\"\"\n        if obj.active:\n            # Deactivate all other active groups before saving this one",
+        "detail": "returante.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ContactAdmin",
+        "kind": 6,
+        "importPath": "returante.admin",
+        "description": "returante.admin",
+        "peekOfCode": "class ContactAdmin(admin.ModelAdmin):\n    list_display = (\"name\", \"email\")\n@admin.register(GalleryItem)\nclass GalleryItemAdmin(admin.ModelAdmin):\n    list_display = [\"name\"]\n@admin.register(BlogDisplay)\nclass BlogDisplayAdmin(admin.ModelAdmin):\n    list_display = [\n        \"title\",\n        \"sub_title\",",
+        "detail": "returante.admin",
+        "documentation": {}
+    },
+    {
+        "label": "GalleryItemAdmin",
+        "kind": 6,
+        "importPath": "returante.admin",
+        "description": "returante.admin",
+        "peekOfCode": "class GalleryItemAdmin(admin.ModelAdmin):\n    list_display = [\"name\"]\n@admin.register(BlogDisplay)\nclass BlogDisplayAdmin(admin.ModelAdmin):\n    list_display = [\n        \"title\",\n        \"sub_title\",\n    ]",
+        "detail": "returante.admin",
+        "documentation": {}
+    },
+    {
+        "label": "BlogDisplayAdmin",
+        "kind": 6,
+        "importPath": "returante.admin",
+        "description": "returante.admin",
+        "peekOfCode": "class BlogDisplayAdmin(admin.ModelAdmin):\n    list_display = [\n        \"title\",\n        \"sub_title\",\n    ]",
+        "detail": "returante.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ReturanteConfig",
+        "kind": 6,
+        "importPath": "returante.apps",
+        "description": "returante.apps",
+        "peekOfCode": "class ReturanteConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'returante'",
+        "detail": "returante.apps",
+        "documentation": {}
+    },
+    {
+        "label": "StudentForm",
+        "kind": 6,
+        "importPath": "returante.forms",
+        "description": "returante.forms",
+        "peekOfCode": "class StudentForm(forms.ModelForm):\n    class Meta:\n        model = Student\n        fields = [\"name\", \"email\", \"phone_number\", \"reason\"]\n        widgets = {\n            \"name\": forms.TextInput(\n                attrs={\n                    \"class\": \"input input-bordered w-full\",\n                    \"placeholder\": \"Enter your full name\",\n                }",
+        "detail": "returante.forms",
+        "documentation": {}
+    },
+    {
+        "label": "LoginForm",
+        "kind": 6,
+        "importPath": "returante.forms",
+        "description": "returante.forms",
+        "peekOfCode": "class LoginForm(forms.ModelForm):\n    class Meta:\n        model = Student\n        fields = [\"email\", \"phone_number\"]\n        widgets = {\n            \"email\": forms.EmailInput(\n                attrs={\n                    \"class\": \"input input-bordered w-full\",\n                    \"placeholder\": \"Enter your registered email address\",\n                }",
+        "detail": "returante.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ReservationForm",
+        "kind": 6,
+        "importPath": "returante.forms",
+        "description": "returante.forms",
+        "peekOfCode": "class ReservationForm(forms.ModelForm):\n    menu_items = forms.ModelMultipleChoiceField(\n        queryset=Menu.objects.all(),\n        widget=forms.CheckboxSelectMultiple,  # or use SelectMultiple\n        required=False,\n        label=\"Select Menu Items\",\n    )\n    class Meta:\n        model = Reservation\n        fields = [\"name\", \"email\", \"guest_phone_num\", \"date\", \"meassage\", \"menu_items\"]",
+        "detail": "returante.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Menu",
+        "kind": 6,
+        "importPath": "returante.models",
+        "description": "returante.models",
+        "peekOfCode": "class Menu(models.Model):\n    SELECTION = [\n        (\"food\", \"Food\"),\n        (\"drink\", \"Drink\"),\n        (\"snack\", \"Snack\"),\n    ]\n    sample = models.ImageField(upload_to=\"sample/\", blank=True, null=True)\n    title = models.CharField(max_length=20)\n    discription = models.TextField(null=True, blank=True, max_length=500)\n    price = models.DecimalField(max_digits=10, decimal_places=2)",
+        "detail": "returante.models",
+        "documentation": {}
+    },
+    {
+        "label": "Reservation",
+        "kind": 6,
+        "importPath": "returante.models",
+        "description": "returante.models",
+        "peekOfCode": "class Reservation(models.Model):\n    name = models.CharField(max_length=30)\n    email = models.EmailField()\n    date = models.DateTimeField()\n    meassage = models.TextField(max_length=500, null=True, blank=True)\n    guest_phone_num = models.IntegerField()\n    menu_items = models.ManyToManyField(Menu, blank=True)\n    def __str__(self):\n        return f\"placed reservertion by {self.name} on {self.date}\"\nclass GroupLink(models.Model):",
+        "detail": "returante.models",
+        "documentation": {}
+    },
+    {
+        "label": "GroupLink",
+        "kind": 6,
+        "importPath": "returante.models",
+        "description": "returante.models",
+        "peekOfCode": "class GroupLink(models.Model):\n    title = models.CharField(max_length=100, default=\"KFC Student Group\")\n    link = models.URLField(\n        default=\"https://chat.whatsapp.com/XXXXXXXXXXXXXXX\",\n        help_text=\"WhatsApp group invite link for registered students.\",\n    )\n    active = models.BooleanField(default=True)\n    def __str__(self):\n        return self.title\nclass Student(models.Model):",
+        "detail": "returante.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "returante.models",
+        "description": "returante.models",
+        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=100)\n    email = models.EmailField()\n    phone_number = models.CharField(max_length=15)\n    registered_on = models.DateTimeField(auto_now_add=True)\n    reason = models.TextField(blank=True, null=True)\n    whatsapp_joined = models.BooleanField(default=False)\n    joined_group_name = models.ForeignKey(\n        GroupLink,\n        on_delete=models.SET_NULL,",
+        "detail": "returante.models",
+        "documentation": {}
+    },
+    {
+        "label": "Contact",
+        "kind": 6,
+        "importPath": "returante.models",
+        "description": "returante.models",
+        "peekOfCode": "class Contact(models.Model):\n    name = models.CharField(max_length=20)\n    email = models.EmailField()\n    desc = models.TextField(max_length=200)\n    def __str__(self):\n        return self.name\nclass GalleryItem(models.Model):\n    name = models.CharField(max_length=255)\n    image = models.ImageField(upload_to=\"gallery/\")\n    created_at = models.DateTimeField(auto_now_add=True)",
+        "detail": "returante.models",
+        "documentation": {}
+    },
+    {
+        "label": "GalleryItem",
+        "kind": 6,
+        "importPath": "returante.models",
+        "description": "returante.models",
+        "peekOfCode": "class GalleryItem(models.Model):\n    name = models.CharField(max_length=255)\n    image = models.ImageField(upload_to=\"gallery/\")\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name\nclass BlogDisplay(models.Model):\n    title = models.CharField(max_length=50)\n    sub_title = models.CharField(max_length=100, blank=True, null=True)\n    image = models.ImageField(upload_to=\"blogs/\")",
+        "detail": "returante.models",
+        "documentation": {}
+    },
+    {
+        "label": "BlogDisplay",
+        "kind": 6,
+        "importPath": "returante.models",
+        "description": "returante.models",
+        "peekOfCode": "class BlogDisplay(models.Model):\n    title = models.CharField(max_length=50)\n    sub_title = models.CharField(max_length=100, blank=True, null=True)\n    image = models.ImageField(upload_to=\"blogs/\")\n    description = models.TextField(max_length=500, blank=True, null=True)\n    created_at = models.DateField(auto_now_add=True)\n    def save(self, *args, **kwargs):\n        # Auto-generate subtitle if none provided\n        if not self.sub_title:\n            self.sub_title = self.title[:20]",
+        "detail": "returante.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuSerializer",
+        "kind": 6,
+        "importPath": "returante.serializers",
+        "description": "returante.serializers",
+        "peekOfCode": "class MenuSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Menu\n        fields = '__all__'\n        # Alternatively, specify fields explicitly\n        # fields = ['id', 'name', 'description', 'price', 'selection']",
+        "detail": "returante.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "returante.urls",
+        "description": "returante.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.home, name=\"home\"),\n    path(\"blog/\", views.blog, name=\"blog\"),\n    path(\"gallery/\", views.gallery, name=\"gallery\"),\n    path(\"about/\", views.about, name=\"about\"),\n    path(\"contact/\", views.contact, name=\"contact\"),\n    path(\"menu\", views.menu, name=\"menu\"),\n    path(\"Registeration/\", views.student_registration, name=\"student\"),\n    path(\"reservation\", views.reservation_view, name=\"reservation\"),\n    path(\"\", include(\"rest_framework.urls\", namespace=\"rest_framework\")),",
+        "detail": "returante.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def home(request):\n    return render(request, \"public.html\")\ndef blog(request):\n    response = requests.get(\n        \"https://www.themealdb.com/api/json/v1/1/filter.php?a=Canadian\"\n    )\n    data = response.json()\n    meals = data.get(\"meals\", [])\n    blogs = BlogDisplay.objects.all().order_by(\"created_at\")\n    context = {\"meals\": meals, \"blogs\": blogs}",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "blog",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def blog(request):\n    response = requests.get(\n        \"https://www.themealdb.com/api/json/v1/1/filter.php?a=Canadian\"\n    )\n    data = response.json()\n    meals = data.get(\"meals\", [])\n    blogs = BlogDisplay.objects.all().order_by(\"created_at\")\n    context = {\"meals\": meals, \"blogs\": blogs}\n    return render(request, \"blog.html\", context)\ndef blog_details(request, pk):",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "blog_details",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def blog_details(request, pk):\n    blog = get_object_or_404(BlogDisplay, pk=pk)\n    return render(request, \"blog_details.html\", {\"blog\": blog})\ndef about(request):\n    return render(request, \"about.html\")\ndef contact(request):\n    if request.method == \"POST\":\n        name = request.POST.get(\"name\")\n        email = request.POST.get(\"email\")\n        desc = request.POST.get(\"description\")",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def about(request):\n    return render(request, \"about.html\")\ndef contact(request):\n    if request.method == \"POST\":\n        name = request.POST.get(\"name\")\n        email = request.POST.get(\"email\")\n        desc = request.POST.get(\"description\")\n        if not all([name, email, desc]):\n            return render(\n                request,",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def contact(request):\n    if request.method == \"POST\":\n        name = request.POST.get(\"name\")\n        email = request.POST.get(\"email\")\n        desc = request.POST.get(\"description\")\n        if not all([name, email, desc]):\n            return render(\n                request,\n                \"contact.html\",\n                {\"error\": \"All fields are required, please.\"},",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "menu",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def menu(request, category=None):\n    menus = Menu.objects.all()\n    category_filter = request.GET.get(\"category\")\n    if category_filter in [\"food\", \"drink\", \"snack\"]:\n        menus = menus.filter(selection=category_filter)\n    context = {\"menus\": menus, \"active_category\": category_filter}\n    return render(request, \"menu.html\", context)\ndef reservation_view(request):\n    if request.method == \"POST\":\n        form = ReservationForm(request.POST)",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "reservation_view",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def reservation_view(request):\n    if request.method == \"POST\":\n        form = ReservationForm(request.POST)\n        if form.is_valid():\n            # Save the reservation\n            reservation = form.save()\n            # Extract data from the saved reservation\n            name = reservation.name\n            email = reservation.email\n            date = reservation.date",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "gallery",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def gallery(request):\n    response = requests.get(\"https://www.themealdb.com/api/json/v1/1/search.php?s=\")\n    data = response.json()\n    meals = data.get(\"meals\", [])\n    items = GalleryItem.objects.all().order_by(\"-created_at\")\n    context = {\"meals\": meals, \"items\": items}\n    return render(request, \"gallery.html\", context)\ndef food_list(request):\n    foods = Menu.object.filter(selection=\"food\")\n    return render(request, \"menu.html\", {\"foods\": foods})",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "food_list",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def food_list(request):\n    foods = Menu.object.filter(selection=\"food\")\n    return render(request, \"menu.html\", {\"foods\": foods})\ndef drink_list(request):\n    drinks = Menu.object.filter(selection=\"drink\")\n    return render(request, \"menu.html\", {\"drinks\": drinks})\ndef snack_list(request):\n    snack = Menu.object.filter(selection=\"snack\")\n    return render(request, \"menu.html\", {\"snack\": snack})\ndef student_registration(request):",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "drink_list",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def drink_list(request):\n    drinks = Menu.object.filter(selection=\"drink\")\n    return render(request, \"menu.html\", {\"drinks\": drinks})\ndef snack_list(request):\n    snack = Menu.object.filter(selection=\"snack\")\n    return render(request, \"menu.html\", {\"snack\": snack})\ndef student_registration(request):\n    if request.method == \"POST\":\n        form = StudentForm(request.POST)\n        if form.is_valid():",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "snack_list",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def snack_list(request):\n    snack = Menu.object.filter(selection=\"snack\")\n    return render(request, \"menu.html\", {\"snack\": snack})\ndef student_registration(request):\n    if request.method == \"POST\":\n        form = StudentForm(request.POST)\n        if form.is_valid():\n            student = form.save()\n            # Extract details\n            name = student.name",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "student_registration",
+        "kind": 2,
+        "importPath": "returante.views",
+        "description": "returante.views",
+        "peekOfCode": "def student_registration(request):\n    if request.method == \"POST\":\n        form = StudentForm(request.POST)\n        if form.is_valid():\n            student = form.save()\n            # Extract details\n            name = student.name\n            email = student.email\n            phone_number = student.phone_number\n            reason = student.reason",
+        "detail": "returante.views",
+        "documentation": {}
+    },
+    {
+        "label": "ThemeConfig",
+        "kind": 6,
+        "importPath": "theme.apps",
+        "description": "theme.apps",
+        "peekOfCode": "class ThemeConfig(AppConfig):\n    name = 'theme'",
+        "detail": "theme.apps",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'kyc.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
