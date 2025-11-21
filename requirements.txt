@@ -4,7 +4,6 @@ binaryornot==0.4.4
 certifi==2025.8.3
 chardet==5.2.0
 charset-normalizer==3.4.3
-click==8.3.0
 colorama==0.4.6
 cookiecutter==2.6.0
 crispy-tailwind==1.0.3
